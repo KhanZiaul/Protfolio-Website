@@ -150,3 +150,61 @@ color: #757575;
 text-align:justify;
 margin-top: 20px;
 }
+/* Resume Section */
+.section-title{
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    color: #181818;
+}
+.edu-experi{
+display: flex;
+margin-top: 113px;
+margin-left: 230px;
+margin-right: 230px;
+justify-content: space-between;
+}
+.ee1{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+}
+.ee2{
+margin-top: 30px;
+font-weight: 700;
+font-size: 25px;
+color: #474747;
+}
+.ee21{
+margin-top: 30px;  
+border:4px solid red;
+}
+.ee3{
+margin-top: 10px;
+font-weight: 600;
+font-size: 20px;
+color: #757575;
+}
+.eep{
+margin-top: 20px;
+font-weight: 400;
+font-size: 16px;
+color: #757575;
+}
+.download_cv{
+margin-top: 69px;
+margin-left:650px;
+margin-right:717px;
+margin-bottom: 131px;
+}
+.but-styl{
+    background-color:#FD6E0A;
+    border: none;
+    width: 200px;
+    height: 64px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight:700;
+}
