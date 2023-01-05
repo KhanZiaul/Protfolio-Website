@@ -103,3 +103,50 @@ font-size: 15px;
     font-weight: 700;
     font-size: 17px;
 }
+/* What do Section */
+.what_do{
+
+}
+.header_do{
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+}
+.do_info{
+    margin-top: 30px;
+    margin-left:345px ;
+    margin-right:346px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+/* Sub Do */
+.info{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 230px;
+    margin-right:230px ;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+.sub_info{
+padding: 50px;
+}
+.image_info{
+    width: 44px;
+    height: 44px;
+    margin-bottom:30px ;
+    }
+.header_sub_info{
+text-align: left;
+}
+
+.stroy{
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+color: #757575;
+text-align:justify;
+margin-top: 20px;
+}
