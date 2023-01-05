@@ -19,7 +19,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight:800;
@@ -207,4 +207,78 @@ margin-bottom: 131px;
     color: white;
     font-size: 20px;
     font-weight:700;
+}
+/* Contact */
+.contact{
+    display: flex;
+    justify-content:space-between;
+    background-color: #FFF8F3;
+}
+#name{
+    width: 461px;
+    height: 50px;
+    font-weight: 400;
+    font-size: 16px;
+    background: #FFF8F3;
+    border-radius: 5px;
+    margin-top: 28px;
+}
+#email{
+    width: 461px;
+    height: 50px;
+    font-weight: 400;
+    font-size: 16px;
+    background: #FFF8F3;
+    border-radius: 5px;
+    margin-top: 24px;
+}
+#textarea{
+    width: 461px;
+    height: 180px;
+    font-weight: 400;
+    font-size: 16px;
+    background: #FFF8F3;
+    border-radius: 5px;
+    margin-top: 24px;
+}
+#submit{
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color:#FD6E0A;
+    width: 150px;
+    height: 50px;
+    color:white;
+    display: block;
+    margin-top:24px;
+}
+.one{
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+}
+.two{
+    font-weight: 400;
+    font-size: 16px;
+    color: #474747;
+    margin-top: 18px;
+}
+.sub_con1{
+margin-left: 230px;
+}
+.message{
+    margin-left: 105px;
+}
+.contact a{
+    text-decoration: none;
+}
+footer{
+    margin-top: 10px;
+}
+.anchor{
+    margin-top:32px;
+    padding:5px;
+}
+input,textarea{
+    padding-left:15px;
 }
